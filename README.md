@@ -6,3 +6,6 @@
 <p align='center'>
     <img src="https://github.com/othub/othub/blob/main/lights.gif" alt="lights" />
 </p>
+![](https://komarev.com/ghpvc/?username=othub&color=black)
+![](https://visitor-badge.glitch.me/badge?page_id=othub.othub)
+
